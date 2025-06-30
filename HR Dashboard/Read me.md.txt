@@ -1,0 +1,72 @@
+📊 HR KPI Dashboard – Excel Project
+Overview
+This Excel-based HR KPI Dashboard provides a high-level, data-driven overview of key Human Resource performance indicators. Designed to deliver quick insights for HR teams and stakeholders, the dashboard visually tracks metrics such as employee turnover, training effectiveness, engagement, satisfaction, and productivity.
+
+By combining dynamic charts, percentage change indicators, and clean visual aesthetics, this dashboard allows organizations to monitor workforce health and make informed decisions that align with strategic HR goals.
+
+📌 Key Features
+Dashboard Type: HR Performance KPI Dashboard
+
+Tools Used: Microsoft Excel (Formulas, Charts, Conditional Formatting, KPI Cards)
+
+Visual Elements: Donut Charts, KPI Indicators, Trend Lines, Variance Arrows
+
+Target Users: HR Professionals, Talent Managers, Executives
+
+📊 Dashboard Insights
+The dashboard is structured around 16 key HR metrics, grouped by themes of employee performance, satisfaction, and organizational health:
+
+🚹 Workforce Overview
+Headcount: 36 employees currently
+
+90-Day Quit Rate: 9% – reflecting early-stage employee turnover
+
+Acceptance Ratio: 31% – shows selectivity or offer acceptance rate
+
+🧠 Learning & Development
+Training Effectiveness: 77% – a strong indicator of learning success
+
+Internal Promotion Rate: 8% – lower than ideal, may suggest stagnation
+
+👥 Engagement & Satisfaction
+Engagement Index: 52% (↓24% vs. previous month) – indicates declining employee engagement
+
+Satisfaction Index: 87% (↓5%) – generally positive but slightly decreased
+
+Benefits Satisfaction: 43% (↑39%) – strong improvement in perception of benefits
+
+💤 Absenteeism
+Absence Rate: 9% (↑22%) – may require action or further analysis
+
+Absence Cost: $1,336 (↓14%) – reduction in financial impact of absenteeism
+
+🛠 Productivity & Quality
+Productivity Rate: 74% (↓12%) – suggests a dip in output
+
+Quality of Hire: 46% (↓12%) – potential concern in recruitment effectiveness
+
+💼 Organizational Health
+Turnover Rate: 12% (↑35%) – shows a significant increase, a red flag for retention
+
+Net Promoter Score (NPS): 8 (↓20%) – indicates a decrease in employee advocacy or satisfaction with the company
+
+📈 Story the Dashboard Tells
+This dashboard tells the story of a mid-sized organization undergoing shifts in workforce dynamics. While satisfaction scores remain relatively high, other KPIs signal emerging issues:
+
+Engagement, NPS, and productivity are all declining, possibly linked to reduced training quality, low internal mobility, or increased absenteeism.
+
+Turnover has spiked by 35%, a key signal of dissatisfaction or external competition.
+
+Benefits satisfaction has improved significantly, showing that recent benefit adjustments may be well-received.
+
+A moderate headcount of 36 and a 31% acceptance rate suggest a selective hiring approach, though quality of hire remains a challenge.
+
+Overall, the dashboard reveals that while employees are generally satisfied, they are becoming less engaged and more likely to leave—prompting HR to refocus on retention, training, and internal growth opportunities.
+
+📌 Inspired By
+IBM HR Analytics Attrition Dataset on Kaggle
+
+Real-world HRMS dashboards from BambooHR, Namely, and Dayforce
+
+📣 Contact
+If you'd like to collaborate or need a custom HR dashboard for your business, feel free to reach out via LinkedIn or Email.
